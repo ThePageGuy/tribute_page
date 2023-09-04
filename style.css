@@ -1,0 +1,92 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+main {
+  width: 99%;
+  background-color: #d3d3d3af;
+  margin: 30px auto;
+  border-radius: 5px;
+  padding: 50px 15px 10px;
+  color: #2d2d2d;
+}
+
+header {
+  margin: 0 auto;
+  width: 100%;
+}
+
+h1 {
+  font-size: 40px;
+  min-width: 300px;
+  margin: 0 auto 20px;
+  text-align: center;
+}
+
+h4 {
+  font-weight: normal;
+  margin: 0 auto 10px;
+  text-align: center;
+}
+
+figure {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+img {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 0 auto 20px;
+}
+
+figcaption {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  margin: 40px auto 0;
+  font-size: 18px;
+}
+
+blockquote {
+  width: 40%;
+  margin: 40px auto 20px;
+  line-height: 30px;
+  letter-spacing: 1px;
+  min-width: 300px;
+}
+
+h2 a {
+  color: rgb(71, 124, 167);
+}
+
+span h2 {
+  margin-bottom: 40px;
+}
+
+ul {
+  width: 40%;
+  margin: 0 auto;
+  font-size: 16px;
+  min-width: 300px;
+}
+
+ul li {
+  margin: 20px 0;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+ul span {
+  font-weight: bolder;
+}
