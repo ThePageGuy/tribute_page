@@ -8,7 +8,7 @@ A Tribute page for Dr. Norman Borlaug The man who saved a billion lives
 
 ## Demo
 
-Link
+[Link](https://thepageguy.github.io/tribute_page/)
 
 ## Author
 
